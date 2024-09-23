@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Qanux
-- 👀 I’m interested in pwn and reserve
+- 👀 I’m interested in pwn and golang
 - 🌱 I’m currently learning linux kernel
 - 📫 My blog is Qanux.github.io
 
