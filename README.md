@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Qanux
-- 👀 I’m interested in pwn and golang
-- 🌱 I’m currently learning linux kernel
-- 📫 My blog is Qanux.github.io
+- 👀 I’m interested in pwn and Back-end development
+- 🌱 I’m currently learning UEFI security
+- 📫 My blog is https://anux.github.io
 
 <!---
 Qanux/Qanux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
