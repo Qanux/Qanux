@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qanux
 - 👀 I’m interested in pwn and Back-end development
-- 🌱 I’m currently learning UEFI security
+- 🌱 I’m currently learning UEFI security and golang
 - 📫 My blog is https://qanux.github.io
 - 🐧 My QQ is MTI5ODY3NzAwNA==
 <!---
